@@ -14,12 +14,12 @@
 ````
 ## 🎯 Dificuldades
 
-As maiores dificuldades foram centralizar as pinturas e ajustar o tamanho das imagens.
+As maiores dificuldades foram centralizar as imagens e ajustar os seus tamanhos.
 
 
 ##  :bookmark: Aprendizado
  
-Aprendi a importância de analisar o projeto antes de começar a desenvolvê-lo, posicionando-o com o flex box e definir o tamanho da página.
+Aprendi a importância de analisar o projeto antes de começar a desenvolvê-lo, posicionando-o com o flex box e definir os tamanhos das imagens.
 
 # Projeto Lista de Imagens
 
