@@ -17,7 +17,7 @@
 As maiores dificuldades foram centralizar as imagens e ajustar os seus tamanhos.
 
 
-##  :bookmark: Aprendizado
+##  :bookmark_tabs: Aprendizado
  
 Aprendi a importância de analisar o projeto antes de começar a desenvolvê-lo, posicionando-o com o flex box e definir os tamanhos das imagens.
 
